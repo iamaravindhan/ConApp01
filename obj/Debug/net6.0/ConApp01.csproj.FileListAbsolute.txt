@@ -1,0 +1,15 @@
+C:\dotnet\ConApp01\bin\Debug\net6.0\ConApp01.exe
+C:\dotnet\ConApp01\bin\Debug\net6.0\ConApp01.deps.json
+C:\dotnet\ConApp01\bin\Debug\net6.0\ConApp01.runtimeconfig.json
+C:\dotnet\ConApp01\bin\Debug\net6.0\ConApp01.dll
+C:\dotnet\ConApp01\bin\Debug\net6.0\ConApp01.pdb
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.csproj.AssemblyReference.cache
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.AssemblyInfoInputs.cache
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.AssemblyInfo.cs
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.csproj.CoreCompileInputs.cache
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.dll
+C:\dotnet\ConApp01\obj\Debug\net6.0\refint\ConApp01.dll
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.pdb
+C:\dotnet\ConApp01\obj\Debug\net6.0\ConApp01.genruntimeconfig.cache
+C:\dotnet\ConApp01\obj\Debug\net6.0\ref\ConApp01.dll
